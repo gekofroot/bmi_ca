@@ -1,0 +1,5 @@
+guide
+
+1. Enter height(m) in left box.
+2. Enter weight(kg) in right box.
+3. Press 'Enter' for bmi.

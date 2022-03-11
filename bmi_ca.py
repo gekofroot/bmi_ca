@@ -48,7 +48,7 @@ def main():
         sys.exit()
 
     # widgets
-    title = Label(text = "Title", font = FONT, fg = FG, bg = BG, bd = BD, relief = RLF_1)
+    title = Label(text = "BMI", font = FONT, fg = FG, bg = BG, bd = BD, relief = RLF_1)
     get_height = Entry(font = FONT, fg = FG, bg = BG, bd = BD, relief = RLF_1, justify = CENTER)
     get_weight = Entry(font = FONT, fg = FG, bg = BG, bd = BD, relief = RLF_1, justify = CENTER)
     display_weight = Label(font = FONT, fg = FG, bg = BG, bd = BD, relief = RLF_1)
